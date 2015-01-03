@@ -1,0 +1,38 @@
+Symbol          Name
+ADLINE          AD LINE
+BEZZMIAN        AKCJE BEZ ZMIAN
+C_              CALY RYNEK
+F_              FINANSE
+F_BAN           BANKI
+F_DEW           DEWELOPERZY
+F_FIN           FINANSE INNE
+F_KAP           RYNEK KAPITALOWY
+F_UBE           UBEZPIECZENIA
+PL_TRIN         GPW ARMS INDEX
+P_              PRZEMYSL
+P_BUD           BUDOWNICTWO
+P_CHE           CHEMICZNY
+P_DRZ           DRZEWNY
+P_ELE           ELEKTROMASZYNOWY
+P_FAR           FARMACEUTYCZNY
+P_LEK           LEKKI
+P_MBU           MATERIALOW BUDOWLANYCH
+P_MET           METALOWY
+P_MOT           MOTORYZACYJNY
+P_PAL           PALIWOWY
+P_PIN           PRZEMYSL INNE
+P_SPO           SPOZYWCZY
+P_SUR           SUROWCOWY
+P_TWS           TWORZYW SZTUCZNYCH
+SPADLO          AKCJE MALEJACE
+U_              USLUGI
+U_ENE           ENERGETYKA
+U_HAD           HANDEL DETALICZNY
+U_HAH           HANDEL HURTOWY
+U_HIR           HOTELE I RESTAURACJE
+U_INF           INFORMATYKA
+U_KON           KONGLOMERATY
+U_MED           MEDIA
+U_TEL           TELEKOMUNIKACJA
+U_UIN           USLUGI INNE
+WZROSLO         AKCJE ROSNACE

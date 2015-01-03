@@ -1,0 +1,2 @@
+Date,Open,High,Low,Close,Volume,OpenInt
+20141222,62.75,63.85,62.75,63.85,9,9

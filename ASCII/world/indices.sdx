@@ -1,0 +1,61 @@
+Symbol          Name
+^AEX            AEX
+^AOR            ALL ORDINARIES
+^ATH            ATHEX COMP
+^BEL20          BEL20
+^BET            BET
+^BUMIX          BUMIX
+^BUX            BUX
+^BVP            BOVESPA
+^CAC            CAC40
+^CRY            CRB INDEX
+^DAX            DAX
+^DJC            DOW JONES COMP
+^DJI            DOW JONES INDU
+^DJT            DOW JONES TRANS
+^DJU            DOW JONES UTIL
+^FMIB           FTSE MIB
+^FTM            FTSE250
+^HEX            HEX
+^HSI            HANG SENG
+^IBEX           IBEX35
+^ICEX           ICEX
+^IPC            IPC
+^IPSA           IPSA
+^JCI            JCI
+^KLCI           KLCI
+^KOSPI          KOSPI
+^MDAX           MDAX
+^MICEX          MICEX
+^MRV            MERVAL
+^MXWD           MSCI AC WORLD
+^MXWO           MSCI WORLD
+^NDQ            NASDAQ COMP
+^NDX            NASDAQ100
+^NKX            NIKKEI225
+^NZ50           NZX50
+^OMXR           OMX RIGA
+^OMXS           OMX STOCKHOLM
+^OMXT           OMX TALLINN
+^OMXV           OMX VILNIUS
+^OSEAX          OSE
+^PSEI           PSEI
+^PSI20          PSI20
+^PX             PX
+^RTS            RTS
+^SAX            SAX
+^SDXP           SDAX
+^SET            SET
+^SHBS           SSE B-SHARE
+^SHC            SSE COMP
+^SMI            SMI
+^SNX            SENSEX
+^SOFIX          SOFIX
+^SPX            S&P500
+^STI            STRAITS TIMES
+^TDXP           TECDAX
+^TSX            S&P/TSX COMP
+^TWSE           TAIEX
+^UKX            UK100
+^UX             UX
+^XU100          XU100
